@@ -1,0 +1,1 @@
+[(floor random 600) - 300, (floor random 600) - 300, (10000 + floor random 20000)];
